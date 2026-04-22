@@ -1,6 +1,6 @@
-## Hi, I'm Vridhi
+## Hi there
 
-Smart contract security researcher in training. Solidity and TypeScript developer. Currently working through CyfrinUpdraft's smart contract security curriculum and contributing to open source.
+Smart contract security researcher and bug hunter. Solidity, Typescript, and Python developer. Completed hands-on security reviews of 5+ protocols through the Cyfrin Updraft curriculum, including raffles, AMMs, lending markets, and bridges. Audited a CodeHawks First Flights ZK-based treasure hunt. OpenZeppelin documentation contributor.
 
 ### Projects
 - **[Aurum Protocol](https://github.com/vridhib/aurum-protocol)**: Gold‑backed stablecoin system on Sepolia where users can deposit tokenized gold (AUR) to mint AUSD. Built with Foundry, Next.js, Wagmi, RainbowKit, The Graph, and Chainlink.
@@ -15,14 +15,10 @@ Smart contract security researcher in training. Solidity and TypeScript develope
 
 ### Currently
 - Completing Cyfrin Updraft's smart contract security curriculum.
+- Competing in CodeHawks First Flight contests.
 - Contributing to OpenZeppelin documentation.
-- Open to entry-level security roles, blockchain or smart contract developer positions, and select contract work.
+- Open to entry-level security roles, smart contract developer positions, and select contract work.
 
 ### Connect
 - **GitHub**: Open an issue or discussion on any repo.
 - **Email**: `vridhib [at] proton [dot] me`
-- **Twitter**: [@0xvridhib](https://x.com/@0xvridhib)
-
----
-
-**Check out my pinned repositories below.**
