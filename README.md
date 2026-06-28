@@ -1,24 +1,37 @@
-## Hi there
+## Hi there 
 
-Smart contract security researcher and bug hunter. Solidity, Typescript, and Python developer. Completed hands-on security reviews of 5+ protocols through the Cyfrin Updraft curriculum, including raffles, AMMs, lending markets, and bridges. Audited a CodeHawks First Flights ZK-based treasure hunt. OpenZeppelin documentation contributor.
+I am a full-stack developer with a focus on Web3, security, and design. I build production-grade applications, ranging from Solidity smart contracts to polished Next.js frontends.
 
 ### Projects
-- **[Aurum Protocol](https://github.com/vridhib/aurum-protocol)**: Gold‑backed stablecoin system on Sepolia where users can deposit tokenized gold (AUR) to mint AUSD. Built with Foundry, Next.js, Wagmi, RainbowKit, The Graph, and Chainlink.
-- **[Social Recovery Wallet](https://github.com/vridhib/recoverable-aa)**: ERC‑4337 smart wallet with social recovery (guardians, timelock, threshold). Built with Foundry, Vite, Wagmi, and RainbowKit.
+
+- [Aurum Protocol](https://github.com/vridhib/aurum-protocol): Gold-backed stablecoin system on Sepolia. Users deposit tokenized gold (AUR) or WETH to mint AUSD. Features volatility-driven LTV, dynamic risk parameters, a kinked interest rate model, and Chainlink Automation. Built with Foundry, Next.js, Wagmi, and The Graph.
+
+- [LayerZero OApp Security Monitor](https://github.com/vridhib/layerzero-oapp-security-monitor)
+Full-stack security monitor that detects dangerous 1-of-1 DVN configurations, centralization risks, and stale oracles to prevent exploits like the $292M KelpDAO hack. Provides risk scores (0-100), Discord alerts, and downloadable security reports. Built with Django, Next.js, and web3.py.
 
 ### Technical Skills
-- **Languages**: Solidity, TypeScript, JavaScript, HTML/CSS, Python
-- **Frameworks & Tools**: Foundry, Next.js, Vite, Wagmi, Viem, RainbowKit, TailwindCSS, TanstackQuery
-- **Blockchain**: The Graph (Subgraph), Chainlink Oracles, Chainlink VRF
-- **Testing**: Unit Testing, Fuzz Testing, Invariant Testing
-- **Other**: Git, Vercel, WalletConnect, Etherscan, Linux, Bash Scripting
 
-### Currently
-- Completing Cyfrin Updraft's smart contract security curriculum.
-- Competing in CodeHawks First Flight contests.
-- Contributing to OpenZeppelin documentation.
-- Open to entry-level security roles, smart contract developer positions, and select contract work.
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Solidity, TypeScript, JavaScript, Python, HTML/CSS |
+| **Backend** | Django, Django REST Framework, Node.js |
+| **Frontend** | Next.js, React, TailwindCSS, Wagmi, Viem, RainbowKit |
+| **Blockchain** | Foundry, Chainlink (Oracles, Automation), The Graph |
+| **Testing** | Unit Testing, Fuzz Testing, Invariant Testing, Forge |
+| **Security** | Smart contract auditing mindset, security-first design |
+| **Other** | Git, PostgreSQL, SQLite, Redis, Docker, Linux |
+
+### Design
+
+I believe great products are both functional and visually cohesive. I build custom UI themes with careful attention to color, typography, and interaction design.
 
 ### Connect
+
 - **GitHub**: Open an issue or discussion on any repo.
 - **Email**: `vridhib [at] proton [dot] me`
+
+### Currently
+
+- Open to full-time roles and contract work in Web3 development, security tooling, and DeFi.
+- Building real-world projects that solve actual problems.
+- Continuously learning and contributing to open source.
