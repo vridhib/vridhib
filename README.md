@@ -32,6 +32,6 @@ I believe great products are both functional and visually cohesive. I build cust
 
 ### Currently
 
-- Open to full-time roles and contract work in Web3 development, security tooling, and DeFi.
+- Open to full-time roles and contract work in development, security tooling, and DeFi.
 - Building real-world projects that solve actual problems.
 - Continuously learning and contributing to open source.
