@@ -6,7 +6,7 @@ I am a full-stack developer with a focus on Web3, security, and design. I build 
 
 - [Aurum Protocol](https://github.com/vridhib/aurum-protocol): Gold-backed stablecoin system on Sepolia. Users deposit tokenized gold (AUR) or WETH to mint AUSD. Features volatility-driven LTV, dynamic risk parameters, a kinked interest rate model, and Chainlink Automation. Built with Foundry, Next.js, Wagmi, and The Graph.
 
-- [LayerZero OApp Security Monitor](https://github.com/vridhib/layerzero-oapp-security-monitor)
+- [LayerZero OApp Security Monitor](https://github.com/vridhib/layerzero-oapp-security-monitor):
 Full-stack security monitor that detects dangerous 1-of-1 DVN configurations, centralization risks, and stale oracles to prevent exploits like the $292M KelpDAO hack. Provides risk scores (0-100), Discord alerts, and downloadable security reports. Built with Django, Next.js, and web3.py.
 
 ### Technical Skills
